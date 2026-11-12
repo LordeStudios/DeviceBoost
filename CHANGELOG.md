@@ -9,7 +9,7 @@ First public release.
 ### Added
 
 - Native Windows client (Direct2D / DirectWrite / Direct3D 11) with six screens: dashboard, GPU profiles, app launcher, devices, activity log and settings.
-- Opening liquid glass logo animation ported from the reactdrops reference, skippable with any input.
+- Opening liquid glass logo animation, skippable with any input.
 - GPU identity profiles: seven built-in presets (NVIDIA, AMD, Intel) plus custom vendor and device definitions from the command line.
 - Device wide identity persistence read by every hooked application.
 - Identity reporting seams for DXGI, Direct3D 9, Vulkan, OpenGL and Windows SetupAPI.
